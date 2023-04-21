@@ -1,0 +1,15 @@
+* {
+    font-family: 'Source Code Pro', monospace;
+    
+}
+
+header {
+    display: flex;
+    justify-content: left;
+}
+
+#buttons {
+    display: flex;
+    justify-content: left;
+}
+
